@@ -1,3 +1,4 @@
+// Copyright 2020 Olga Molchun olgamolchun5@gmail.com
 #ifndef INCLUDE_INVESTIGATION_HPP_
 #define INCLUDE_INVESTIGATION_HPP_
 
@@ -8,7 +9,6 @@
 
 
 const size_t kbytes = 1024;
-// Intel Core i7-9750H
 // in bytes
 struct size_of_cache{
  public:

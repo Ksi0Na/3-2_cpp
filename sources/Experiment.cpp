@@ -1,3 +1,4 @@
+// Copyright 2020 Olga Molchun olgamolchun5@gmail.com
 #include "Experiment.hpp"
 
 int Experiment::counter_of_experiments = 0;
